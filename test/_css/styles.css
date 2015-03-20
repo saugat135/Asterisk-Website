@@ -61,14 +61,20 @@ body{
 .paragraph{
 	font-family:Lato, helvitica;
 	font-size:20px;
-	color:white;
+	color:#FFF;
 	text-align:center;
 }
 .paragraph2{
 	font-family:Lato, helvitica;
 	font-size:16px;
+	color:#FFF;
+	text-align:center;
+}
+.paragraph3{
+	font-family:Lato, helvitica;
+	font-size:16px;
 	color:white;
-	text-align:justify;
+	text-align: justify;
 }
 b.home-icon::before{
 	content:"\26ea";
@@ -185,7 +191,7 @@ h1.services-heading{
 .bottom-div
 {
 	padding: 0 auto;
-	 
+	opacity: 0.8; 
 }
 .bottom-div
 {
@@ -205,7 +211,7 @@ h1.services-heading{
 	
 	margin-left:20px;
 	margin-bottom:125px;
-	margin-top:122px;
+	margin-top:80px;
 	width:231px;
 	min-height: 400px;
 	
